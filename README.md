@@ -1,2 +1,2 @@
 # PythonTutorials
-## This repo if for any Python Tutorials done in my PSY 341K class
+## This repo is for any Python Tutorials done in my PSY 341K class
